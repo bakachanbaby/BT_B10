@@ -1,0 +1,10 @@
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+.btn{
+    margin-bottom: 20px;
+}
